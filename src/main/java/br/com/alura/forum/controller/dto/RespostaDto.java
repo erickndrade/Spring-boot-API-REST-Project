@@ -1,6 +1,6 @@
 package br.com.alura.forum.controller.dto;
 
-import br.com.alura.forum.modelo.src.main.java.br.com.alura.forum.modelo.Resposta;
+import br.com.alura.forum.modelo.Resposta;
 
 import java.time.LocalDateTime;
 

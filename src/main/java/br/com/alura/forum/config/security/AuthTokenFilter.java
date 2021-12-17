@@ -1,6 +1,6 @@
 package br.com.alura.forum.config.security;
 
-import br.com.alura.forum.modelo.src.main.java.br.com.alura.forum.modelo.Usuario;
+import br.com.alura.forum.modelo.Usuario;
 import br.com.alura.forum.repository.UsuarioRepository;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.context.SecurityContextHolder;

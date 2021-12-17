@@ -1,6 +1,6 @@
 package br.com.alura.forum.config.swagger;
 
-import br.com.alura.forum.modelo.src.main.java.br.com.alura.forum.modelo.Usuario;
+import br.com.alura.forum.modelo.Usuario;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import springfox.documentation.builders.ParameterBuilder;

@@ -1,4 +1,4 @@
-package br.com.alura.forum.modelo.src.main.java.br.com.alura.forum.modelo;
+package br.com.alura.forum.modelo;
 
 import org.springframework.security.core.GrantedAuthority;
 
@@ -34,6 +34,6 @@ public class Perfil implements GrantedAuthority {
 
     @Override
     public String getAuthority() {
-        return nome;
+        return this.nome;
     }
 }

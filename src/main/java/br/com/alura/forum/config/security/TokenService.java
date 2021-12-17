@@ -1,11 +1,10 @@
 package br.com.alura.forum.config.security;
 
-import br.com.alura.forum.modelo.src.main.java.br.com.alura.forum.modelo.Usuario;
+import br.com.alura.forum.modelo.Usuario;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.core.Authentication;
 import org.springframework.stereotype.Service;
 

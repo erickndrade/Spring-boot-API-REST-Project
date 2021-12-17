@@ -1,7 +1,7 @@
 package br.com.alura.forum.controller.dto;
 
-import br.com.alura.forum.modelo.src.main.java.br.com.alura.forum.modelo.StatusTopico;
-import br.com.alura.forum.modelo.src.main.java.br.com.alura.forum.modelo.Topico;
+import br.com.alura.forum.modelo.StatusTopico;
+import br.com.alura.forum.modelo.Topico;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
